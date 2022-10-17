@@ -1,4 +1,4 @@
-# Frist-project
+# Resturante project
  it is a project frontend from scratch 
 ## languages
 - css 
