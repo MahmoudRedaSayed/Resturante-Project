@@ -1,8 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-[http]
-postbuffer = 524288000
-[pack]
-windowMemory = 1524m
-deltaCacheSize = 1524m
-packSizeLimit = 1524m
